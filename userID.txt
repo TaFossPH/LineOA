@@ -1,0 +1,14 @@
+**user id**
+
+linebot
+--------------------------
+1.server.js
+npm start
+
+2.ngrok
+ngrok http 3000
+
+3.linedeveloper /webhook url
+verify
+
+4.chat to bot!!

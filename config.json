@@ -1,0 +1,5 @@
+{
+  "port": "PORT",
+  "channelAccessToken": "CHANNEL ACCESS TOKEN",
+  "channelSecret": "CHANNEL SECRET"
+}
