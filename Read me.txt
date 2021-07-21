@@ -1,0 +1,17 @@
+**user id**
+
+linebot
+--------------------------
+1.server.js
+--> npm start
+
+2.ngrok
+--> ngrok http ${PORT}
+
+3.linedeveloper webhook url
+--> https://62235bcbdf91.ngrok.io/webhook
+--> verify
+(ngrok show 200 OK)
+
+4.Line
+--> chat!!
